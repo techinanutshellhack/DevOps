@@ -12,3 +12,5 @@ run git commit -m "comment"
 run git push origin branch name
 create a pull request and merge into main branch
 run git pull
+
+testing merge conflict
